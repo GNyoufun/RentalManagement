@@ -1,0 +1,19 @@
+{
+  "name": "rentalmanagement",
+  "version": "1.0.0",
+  "description": "Rental Management WebApp for real-estate work",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GNyoufun/RentalManagement.git"
+  },
+  "author": "Brendan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GNyoufun/RentalManagement/issues"
+  },
+  "homepage": "https://github.com/GNyoufun/RentalManagement#readme"
+}
